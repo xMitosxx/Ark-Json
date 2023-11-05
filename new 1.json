@@ -18,7 +18,7 @@
           "layout": 1,
           "buttontext": "<TextStyle.Red>Start</>",
           "title1": "Willkommen im Kotschnüffler Paradise",
-          "text1": "Regeln:\n\n\n\nKein Bau in wichtigen Ressourcengebieten: Vermeide es, Basen in der Nähe von wichtigen Ressourcen wie Obsidian, Metall oder Kristallen zu bauen, um anderen Spielern den Zugang nicht zu versperren.\n\nKein Blockieren von Höhlen oder Artefakten: Du darfst keine Höhlen oder Artefakte blockieren oder unzugänglich machen, um anderen das Abschließen des Spiels zu erschweren.\n\nFreundlicher Umgangston: Respektiere andere Spieler und halte dich an einen respektvollen Umgangston im Chat.\n\nKein Trolling oder Belästigung: Belästigung oder absichtliches Stören anderer Spieler ist verboten.\n\nKein übermäßiges Zähmen von Dinos: Vermeide das übermäßige Zähmen von Dinosauriern, da dies die Serverleistung beeinträchtigen kann. Begrenze dich auf eine angemessene Anzahl.\n\nBasenabbau nach Serververlassen: Wenn du den Server verlässt oder eine längere Pause einlegst, räume deine Basen auf, damit die Umgebung nicht übermäßig verunstaltet wird.\n\nGemeinschaftsgebiete respektieren: Respektiere gemeinschaftliche Bereiche und Bauprojekte, die von anderen Spielern initiiert wurden.\n\nAktive Teilnahme am Serverleben: Sei aktiv auf dem Server, um sicherzustellen, dass deine Basis nicht als inaktiv markiert und möglicherweise entfernt wird.\n\n",
+          "text1": "<TextStyle.Red>Regeln:</>\n\n\n\nKein Bau in wichtigen Ressourcengebieten: Vermeide es, Basen in der Nähe von wichtigen Ressourcen wie Obsidian, Metall oder Kristallen zu bauen, um anderen Spielern den Zugang nicht zu versperren.\n\nKein Blockieren von Höhlen oder Artefakten: Du darfst keine Höhlen oder Artefakte blockieren oder unzugänglich machen, um anderen das Abschließen des Spiels zu erschweren.\n\nFreundlicher Umgangston: Respektiere andere Spieler und halte dich an einen respektvollen Umgangston im Chat.\n\nKein Trolling oder Belästigung: Belästigung oder absichtliches Stören anderer Spieler ist verboten.\n\nKein übermäßiges Zähmen von Dinos: Vermeide das übermäßige Zähmen von Dinosauriern, da dies die Serverleistung beeinträchtigen kann. Begrenze dich auf eine angemessene Anzahl.\n\nBasenabbau nach Serververlassen: Wenn du den Server verlässt oder eine längere Pause einlegst, räume deine Basen auf, damit die Umgebung nicht übermäßig verunstaltet wird.\n\nGemeinschaftsgebiete respektieren: Respektiere gemeinschaftliche Bereiche und Bauprojekte, die von anderen Spielern initiiert wurden.\n\nAktive Teilnahme am Serverleben: Sei aktiv auf dem Server, um sicherzustellen, dass deine Basis nicht als inaktiv markiert und möglicherweise entfernt wird.\n\n",
           "imageurl": "https://i.imgur.com/mGt3cAF.png"
         }
       },
@@ -29,7 +29,7 @@
           "title1": "Multiplikatoren",
           "title2": "Mods",
           "text1": "Taming x10\n\nHarvest x10\n\nBreeding x15\n\nMatingintervall x20\n\nXP x10\n\nImprintinterval x10\n\nPVECarry ON\n\nFriendlyFire OFF\n\n",
-          "text2": "This text goes into the right box",
+          "text2": "Easy Mutation\n\nMeat Spoiler\n\nBig Storage Box\n\nCustom Level Dinos\n\n Backpack\n\nSuper Spyglass Plus\n\nImbue and Upgrade Station\n\nSpeedy Rhynop\n\nAutomated Ark\n\n",
           "imageurl": "https://i.imgur.com/mGt3cAF.png"
         }
       },
