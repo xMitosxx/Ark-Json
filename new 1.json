@@ -16,51 +16,23 @@
       {
         "tab1": {
           "layout": 1,
-          "buttontext": "<TextStyle.Red>1 Box layout</>",
+          "buttontext": "<TextStyle.Red>Start</>",
           "title1": "Willkommen im Kotschnüffler Paradise",
-          "text1": "Test info\n\nBTW, blablabla\n\nCheckout the available colors and the syntax you can use to colorize the text for the buttons, titles and general text:\n\n<TextStyle.Red><TextStyle.Red>Red Text</></>\n<TextStyle.Green><TextStyle.Green>Green Text</></>\n<TextStyle.Blue><TextStyle.Blue>Blue Text</></>\n<TextStyle.Yellow><TextStyle.Yellow>Yellow Text</></>\n<TextStyle.Orange><TextStyle.Orange>Orange Text</></>\n<TextStyle.Violet><TextStyle.Violet>Violet Text</></>\n<TextStyle.White><TextStyle.White>White Text</></>\n<TextStyle.Black><TextStyle.Black>Black Text</></> < Yes its Black Text on a Black background\n",
+          "text1": "Regeln:\n\n\n\nKein Bau in wichtigen Ressourcengebieten: Vermeide es, Basen in der Nähe von wichtigen Ressourcen wie Obsidian, Metall oder Kristallen zu bauen, um anderen Spielern den Zugang nicht zu versperren.\n\nKein Blockieren von Höhlen oder Artefakten: Du darfst keine Höhlen oder Artefakte blockieren oder unzugänglich machen, um anderen das Abschließen des Spiels zu erschweren.\n\nFreundlicher Umgangston: Respektiere andere Spieler und halte dich an einen respektvollen Umgangston im Chat.\n\nKein Trolling oder Belästigung: Belästigung oder absichtliches Stören anderer Spieler ist verboten.\n\nKein übermäßiges Zähmen von Dinos: Vermeide das übermäßige Zähmen von Dinosauriern, da dies die Serverleistung beeinträchtigen kann. Begrenze dich auf eine angemessene Anzahl.\n\nBasenabbau nach Serververlassen: Wenn du den Server verlässt oder eine längere Pause einlegst, räume deine Basen auf, damit die Umgebung nicht übermäßig verunstaltet wird.\n\nGemeinschaftsgebiete respektieren: Respektiere gemeinschaftliche Bereiche und Bauprojekte, die von anderen Spielern initiiert wurden.\n\nAktive Teilnahme am Serverleben: Sei aktiv auf dem Server, um sicherzustellen, dass deine Basis nicht als inaktiv markiert und möglicherweise entfernt wird.\n\n",
           "imageurl": "https://i.imgur.com/mGt3cAF.png"
         }
       },
       {
         "tab2": {
           "layout": 2,
-          "buttontext": "2 Box layout",
-          "title1": "Left title",
-          "title2": "Right title",
-          "text1": "This text goes into the left box",
+          "buttontext": "Einstellungen",
+          "title1": "Multiplikatoren",
+          "title2": "Mods",
+          "text1": "Taming x10\n\nHarvest x10\n\nBreeding x15\n\nMatingintervall x20\n\nXP x10\n\nImprintinterval x10\n\nPVECarry ON\n\nFriendlyFire OFF\n\n",
           "text2": "This text goes into the right box",
           "imageurl": "https://i.imgur.com/mGt3cAF.png"
         }
       },
-      {
-        "tab3": {
-          "layout": 3,
-          "buttontext": "3 Box layout",
-          "title1": "Left title",
-          "title2": "Top right title",
-          "title3": "Bottom left title",
-          "text1": "This text goes into the left box",
-          "text2": "This text goes into the top right box",
-          "text3": "This text goes into the bottom right box",
-          "imageurl": "https://i.imgur.com/mGt3cAF.png"
-        }
-      },
-      {
-        "tab4": {
-          "layout": 4,
-          "buttontext": "4 Box layout",
-          "title1": "Top left title",
-          "title2": "<TextStyle.Green>Top right title</>",
-          "title3": "<TextStyle.Blue>bottom left title</>",
-          "title4": "<TextStyle.Yellow>bottom right title</>",
-          "text1": "<TextStyle.Orange>This text goes into the top left box</>",
-          "text2": "<TextStyle.Violet>This text goes into the top right box</>",
-          "text3": "<TextStyle.Red>This text goes into the bottom left box</>",
-          "text4": "<TextStyle.White>This text goes into the bottom right box</>",
-          "imageurl": "https://i.imgur.com/mGt3cAF.png"
-        }
-      }
     ],
     "links": [
       {
